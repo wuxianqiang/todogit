@@ -21,5 +21,5 @@ git rebase --continue
 ```
 然后推送到远端即可
 ```
-git push origin master
+git push origin 你自己的分支
 ```
